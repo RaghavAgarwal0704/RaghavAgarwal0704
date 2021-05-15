@@ -21,13 +21,12 @@ Here are some ideas to get you started:
 <!-- ## Hi there 👋 -->
 
 
- #### I'm a self taught full-stack web developer 💻 that is always looking to grow and improve. I'm a passionate learner that is always eager to gain more experience. Currently a B.Tech student in Information Technology at VIT, Vellore 🏫.
+ #### I'm a full-stack web developer 💻 who is always looking to grow and improve. I'm pursuing B.Tech in Information Technology from VIT, Vellore .
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in web development (MERN stack), competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in frontend and backend web development.
-- 😊 Willing to contribute in opensource development projects.
+- 💻 Currently working on web development, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in frontend and backend development.
 - 👍 Looking for opportunities to join as an intern/full time.
-- 🌐 Visit my [porfolio website](https://sparshjain2000.github.io/).
+- 🌐 Visit my [porfolio website](https://raghavagarwal.live).
 <!--
 **SparshJain2000/SparshJain2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -77,10 +76,9 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with Me :
 
-<a href="https://www.linkedin.com/in/sparsh-jain-87379a168/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@SparshJain&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
-<a href="https://www.github.com/SparshJain2000/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@SparshJain2000&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
-<a href="mailto:jainsparsh0801@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainsparsh0801@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:jainsparsh0801@gmail.com" /> </a>
-<a href="https://leetcode.com/Sparsh_Jain/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=visit&message=@Sparsh_Jain&color=yellow&logo=leetcode&style=flat-square&logoColor=orange&colorA=black" /> </a>
+<a href="https://www.linkedin.com/in/raghav-agarwal-62a303169/" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@RaghavAgarwal&color=success&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
+<a href="https://www.github.com/RaghavAgarwal0704" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@RaghavAgarwal0704&color=grey&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
+<a href="mailto:agarwal.raghav0704@gmail.com" ><img height="25" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=agarwal.raghav0704@gmail.com&label=send&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:agarwal.raghav0704@gmail.com" /> </a>
 <img height="25" alt="Nodejs" src="https://visitor-badge.laobi.icu/badge?page_id=SparshJain2000.SparshJain2000" /> 
 
 
